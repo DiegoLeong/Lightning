@@ -1,7 +1,7 @@
 void setup()
 {
   size(300,300);
-  System.out.print("rowan is gay");
+  ellipse();S
 }
 void draw()
 {
