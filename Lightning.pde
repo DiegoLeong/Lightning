@@ -1,6 +1,6 @@
 int startX = 0;
 int endX = 150;
-int startY = (int)(Math.random()*250);
+int startY = 0;
 int endY = 150;
 
 void setup()
